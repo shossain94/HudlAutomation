@@ -18,6 +18,6 @@ public class MyFirstTest {
 	@Test
 	public void navigateToGooglePage() throws InterruptedException {
 		
-		
+		System.out.println("Hello");
 	}
 }
