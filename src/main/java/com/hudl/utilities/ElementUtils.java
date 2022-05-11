@@ -1,4 +1,4 @@
-package com.plaid.utilities;
+package com.hudl.utilities;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
