@@ -13,7 +13,6 @@ public class HomePage extends BasePage {
 
 	private static final Logger LOGGER = LoggerFactory.getLogger(HomePage.class);
 	
-	
 	private static final String projectName = "//div[@class='hui-primaryteamswitcher__display-name']//span[1]";
 	
 	public HomePage verifyProjectName(String pName) {
